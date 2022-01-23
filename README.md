@@ -11,5 +11,5 @@ Le but de ce projet est de parcourir un labyrinthe généré de manière aléato
       <br>
       
 ## Utilisation
-- Via Spyder :<br>
-  Sélectionner le fichier Main.py et exécuter le fichier. Une fenêtre s'ouvre proposant plusieurs difficultés, le choix de la difficulté s'effectue à l'aide des touches du clavier. Suite au choix du niveau choisi, un labyrinthe apparaît à l'écran. Il faut d'abord cliquer sur la case bleue pour commencer le parcours du labyrinthe. Les cases noires représentent les murs, si le mur est touché la partie se termine. Le but est de déplacer la souris vers la case violette.
+
+Sélectionner le fichier Main.py et exécuter le fichier. Une fenêtre s'ouvre proposant plusieurs difficultés, le choix de la difficulté s'effectue à l'aide des touches du clavier. Suite au choix du niveau choisi, un labyrinthe apparaît à l'écran. Il faut d'abord cliquer sur la case bleue pour commencer le parcours du labyrinthe. Les cases noires représentent les murs, si le mur est touché la partie se termine. Le but est de déplacer la souris vers la case violette.
