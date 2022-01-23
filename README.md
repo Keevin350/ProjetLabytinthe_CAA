@@ -6,10 +6,11 @@ Le but de ce projet est de parcourir un labyrinthe généré de manière aléato
 
 - Via Spyder :<br>
   Lancer Anaconda et lancer l'IDE Spyder. Une fois sur Spyder utiliser la commande suivante dans la console :<br/>
-      `pip install pygame`
+      ``pip install pygame``
  
  - Via Mac OS:<br>
-  Ouvrir le terminal lancer cette commande : `curl https://bootstrap.pypa.io/get-pip.py > get-pip.py` et ensuite lancer cette commande : `sudo pip install pygame`
+  Ouvrir le terminal lancer cette commande : `curl https://bootstrap.pypa.io/get-pip.py > get-pip.py` <br>
+  Et ensuite lancer cette commande : `sudo pip install pygame`
       <br>
       <br>
       
