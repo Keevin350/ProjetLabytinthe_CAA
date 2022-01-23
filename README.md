@@ -1,4 +1,4 @@
-# Projet Labytinthe - CAA
+# Projet Labyrinthe - CAA
 
 Le but de ce projet est de parcourir un labyrinthe généré de manière aléatoire à l'aide du curseur de la souris. Le projet nécessite l'installation de la librairie Pygame.
 
